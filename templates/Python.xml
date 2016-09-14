@@ -1,5 +1,0 @@
-<templateSet group="Python">
-  <template name="utf-8" value="# -*- coding: utf-8 -*-" description="utf-8" toReformat="false" toShortenFQNames="true">
-    <context />
-  </template>
-</templateSet>
